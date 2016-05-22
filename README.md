@@ -1,2 +1,6 @@
-# static
-Static Server.
+## Static Server.
+
+Usage:
+```
+go install github.com/jimmy-go/static
+```
