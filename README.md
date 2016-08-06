@@ -1,11 +1,11 @@
-###Static Server.
+####Static Server.
 
-####Install:
+#####Install:
 ```
 go install github.com/jimmy-go/static
 ```
 
-####Usage:
+#####Usage:
 ```
     -port int:
         Listen port.
@@ -13,7 +13,7 @@ go install github.com/jimmy-go/static
         Path dir.
 ```
 
-####License:
+#####License:
 
 The MIT License (MIT)
 
