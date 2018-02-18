@@ -1,11 +1,17 @@
-####Static Server.
+## Static Server.
 
-#####Install:
+[![License MIT](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/jimmy-go/static.svg?branch=master)](https://travis-ci.org/jimmy-go/static)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jimmy-go/static)](https://goreportcard.com/report/github.com/jimmy-go/static)
+[![GoDoc](http://godoc.org/github.com/jimmy-go/static?status.png)](http://godoc.org/github.com/jimmy-go/static)
+[![Coverage Status](https://coveralls.io/repos/github/jimmy-go/static/badge.svg?branch=master)](https://coveralls.io/github/jimmy-go/static?branch=master)
+
+### Install:
 ```
 go install github.com/jimmy-go/static
 ```
 
-#####Usage:
+### Usage:
 ```
     -port int:
         Listen port.
@@ -13,11 +19,11 @@ go install github.com/jimmy-go/static
         Path dir.
 ```
 
-#####License:
+### License:
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Angel Del Castillo
+Copyright (c) 2016 Angel del Castillo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
